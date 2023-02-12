@@ -2154,7 +2154,10 @@ a:hover{
   }
 
   nav ul li{
-    margin: 0 0.25rem;
+    margin: 0 0.45rem;
+  }
+  nav ul li a{
+    font-size: 0.75rem;
   }
 
   .left_head{
