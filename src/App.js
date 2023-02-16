@@ -28,7 +28,7 @@ function App() {
       </nav>
       <div className={classes.head}>
         <div className={classes.left_head}>
-          <h1 className={classes.heading}>Sports</h1>
+          <h1 className={classes.heading}>Lucky</h1>
           <h5 className={classes.sp}>online</h5>
           <a
             // href="http://Wa.me/+918005535213"
