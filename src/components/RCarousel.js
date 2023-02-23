@@ -22,43 +22,33 @@ const RCarousel = () => {
         interval={2000}
         autoPlay={true}
       >
-        {/* <div onClick={() => window.open("http://Wa.me/+916375992615")}> */}
-        <div onClick={() => window.open("http://Wa.me/+916367837699")}>
+        <div onClick={() => window.open("http://Wa.me/+916375992615")}>
           <img src={Bas} alt="" className={classes.crousa} />
         </div>
-        {/* <div onClick={() => window.open("http://Wa.me/+916375992615")}> */}
-        <div onClick={() => window.open("http://Wa.me/+916367837699")}>
+        <div onClick={() => window.open("http://Wa.me/+916375992615")}>
           <img src={Cric} alt="" className={classes.crousa} />
         </div>
-        {/* <div onClick={() => window.open("http://Wa.me/+916375992615")}> */}
-        <div onClick={() => window.open("http://Wa.me/+916367837699")}>
+        <div onClick={() => window.open("http://Wa.me/+916375992615")}>
           <img src={Cas} alt="" className={classes.crousa} />
         </div>
-        {/* <div onClick={() => window.open("http://Wa.me/+916375992615")}> */}
-        <div onClick={() => window.open("http://Wa.me/+916367837699")}>
+        <div onClick={() => window.open("http://Wa.me/+916375992615")}>
           <img src={Soc} alt="" className={classes.crousa} />
         </div>
-        {/* <div onClick={() => window.open("http://Wa.me/+916375992615")}> */}
-        <div onClick={() => window.open("http://Wa.me/+916367837699")}>
+        <div onClick={() => window.open("http://Wa.me/+916375992615")}>
           <img src={Ready} alt="" className={classes.crousa} />
-        {/* </div><div onClick={() => window.open("http://Wa.me/+916375992615")}> */}
-        </div><div onClick={() => window.open("http://Wa.me/+916367837699")}>
+        </div><div onClick={() => window.open("http://Wa.me/+916375992615")}>
           <img src={Bas} alt="" className={classes.crousa} />
         </div>
-        {/* <div onClick={() => window.open("http://Wa.me/+916375992615")}> */}
-        <div onClick={() => window.open("http://Wa.me/+916367837699")}>
+        <div onClick={() => window.open("http://Wa.me/+916375992615")}>
           <img src={Cric} alt="" className={classes.crousa} />
         </div>
-        {/* <div onClick={() => window.open("http://Wa.me/+916375992615")}> */}
-        <div onClick={() => window.open("http://Wa.me/+916367837699")}>
+        <div onClick={() => window.open("http://Wa.me/+916375992615")}>
           <img src={Cas} alt="" className={classes.crousa} />
         </div>
-        {/* <div onClick={() => window.open("http://Wa.me/+916375992615")}> */}
-        <div onClick={() => window.open("http://Wa.me/+916367837699")}>
+        <div onClick={() => window.open("http://Wa.me/+916375992615")}>
           <img src={Soc} alt="" className={classes.crousa} />
         </div>
-        {/* <div onClick={() => window.open("http://Wa.me/+916375992615")}> */}
-        <div onClick={() => window.open("http://Wa.me/+916367837699")}>
+        <div onClick={() => window.open("http://Wa.me/+916375992615")}>
           <img src={Ready} alt="" className={classes.crousa} />
         </div>
       </Carousel>
